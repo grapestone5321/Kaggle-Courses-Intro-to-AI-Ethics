@@ -3,9 +3,9 @@ Kaggle-Courses-Intro-to-AI-Ethics
 
 -------
 
-1
-Introduction to AI Ethics
+### 1 Introduction to AI Ethics
 Learn what to expect from the course.
+
 2
 Human-Centered Design for AI
 Design systems that serve people’s needs. Navigate issues in several real-world scenarios.

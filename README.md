@@ -12,9 +12,9 @@ Design systems that serve people’s needs. Navigate issues in several real-worl
 ### 3 Identifying Bias in AI
 Bias can creep in at any stage in the pipeline. Investigate a simple model that identifies toxic text.
 
-4
-AI Fairness
+### 4 AI Fairness
 Learn about four different types of fairness. Assess a toy model trained to judge credit card applications.
+
 5
 Model Cards
 Increase transparency by communicating key information about machine learning models.

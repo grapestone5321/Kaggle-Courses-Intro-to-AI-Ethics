@@ -15,8 +15,7 @@ Bias can creep in at any stage in the pipeline. Investigate a simple model that 
 ### 4 AI Fairness
 Learn about four different types of fairness. Assess a toy model trained to judge credit card applications.
 
-5
-Model Cards
+### 5 Model Cards
 Increase transparency by communicating key information about machine learning models.
 
 
